@@ -1,0 +1,14 @@
+{{ partial "header.html" . }}
+	<main>
+		<p>Hello world, welcome to my website.  It's where I write about the things I think about a lot.</p>
+		<p>I think they're pretty important, but I guess we shall see...</p>
+	<!--
+		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
+		{{ range $paginator.Pages }}
+			{{ partial "summary.html" . }}
+		{{ end }}
+		{{ partial "pagination.html" . }}
+	-->
+	</main>
+{{ partial "sidebar.html" . }}
+{{ partial "footer.html" . }}

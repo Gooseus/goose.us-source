@@ -1,0 +1,14 @@
+	<aside>
+		<div>
+			<div>
+				<h3>Recent Thoughts</h3>
+			</div>
+			<div>
+				<ul>
+					{{ range first 5 (where .Site.RegularPages "Section" "thoughts") }}
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+					{{ end }}
+				</ul>
+			</div>
+		</div>
+	</aside>
