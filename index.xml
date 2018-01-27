@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Thoughtful Goose</title>
+    <link>/</link>
+    <description>Recent content on A Thoughtful Goose</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jan 2018 14:08:22 -0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Who Am I?</title>
+      <link>/about/</link>
+      <pubDate>Fri, 26 Jan 2018 14:08:22 -0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am Shawn Marincas, Gooseus is my online alias and pen name (pronounced &amp;ldquo;goosey-yus&amp;rdquo;). It&amp;rsquo;s a Latinized version of my HS nickname (which was not a reference to Top Gun) which I adapted for myself in college after watching Gladiator and needing an Xbox Live handle.
+I&amp;rsquo;m originally from Brick, New Jersey and am now a resident of Portland, Oregon. My only formal education is a Bachelors of Computer Engineering from Stevens Institute of Technology and I&amp;rsquo;m employed full-time as a web developer (or fullstack engineer, or whatever the trending title is).</description>
+    </item>
+    
+    <item>
+      <title>A Purpose for Life</title>
+      <link>/thoughts/a-purpose-for-life/</link>
+      <pubDate>Thu, 25 Jan 2018 05:03:57 -0800</pubDate>
+      
+      <guid>/thoughts/a-purpose-for-life/</guid>
+      <description>I&amp;rsquo;ve tried many times to articulate a purpose for Life without much success. I usually begin well enough and then find myself lost in the weeds as I realize that I haven&amp;rsquo;t grounded the concepts of Life or Purpose well enough on a foundation of core philisophical terms and principles.
+Reading philosophy and listening to philosophy podcasts, I hadn&amp;rsquo;t found anybody from the distant or recent past that quite hit on the points I was trying to make, and also found that being a great philosophical mind did not always correlate with being a wonderful writer.</description>
+    </item>
+    
+  </channel>
+</rss>
