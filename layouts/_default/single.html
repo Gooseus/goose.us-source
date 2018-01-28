@@ -1,13 +1,14 @@
 {{ partial "header.html" . }}
 	<main>
 		<article>
+			<p><a class="pull-right nostyle-anchor" name="top" href="#bottom">&darr; Bottom</a></p>
 			<h2>{{ .Title }}</h2>
 			<time>{{ .Date.Format "January 2, 2006" }}</time>
 			
 			<div>
 				{{ .Content }}
 			</div>
-			<p><a class="to-head" href="#header">&uarr; Top</a></p>
+			<p><a class="pull-right nostyle-anchor" name="bottom" href="#top">&uarr; Top</a></p>
 			<!--<div>
 				<ul id="tags">
 					{{ range .Params.tags }}
