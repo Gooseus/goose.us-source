@@ -4,6 +4,8 @@ title = "A Thoughtful Goose"
 
 theme = "blank"
 
+enableRobotsTXT = true
+
 [blackfriday]
 	plainIDAnchors = true
 	hrefTargetBlank = true
