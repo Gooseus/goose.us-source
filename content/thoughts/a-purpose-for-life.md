@@ -59,20 +59,26 @@ Over time, the entropy of a closed system always increases, while the complexity
 
 {{< figure src="/media/complexity-entropy_time_fixed.png" title="The evolution of entropy and complexity in a closed system over time. (p. 231)" >}}
 
-Life is the ultimate complex system, since organisms can use free energy (increase entropy) to maintain out-of-equilibrium states[1](#note-1) and within the domain of life, the most complex system would be the human brain itself, making the human brain the ultimate in complexity density in the known universe.
+Life is the ultimate complex system, since organisms can use free energy (increase entropy) to maintain out-of-equilibrium states[[0](#note-0) and within the domain of life, the most complex system would be the human brain itself, making the human brain the ultimate in complexity density in the known universe.
 
 Looking at the history of Life, we see billions of years where the complexity of life has increased by way of evolution, and through the millions of years of human history we see how humanity has leveraged their ability to create technology to increase the complexity of civilizations.  Given these observations, I say:
 
 **The purpose of Life is to maximize the area under the complexity curve within the enclosing system.**
 
+{{% figure src="/media/complexity-entropy_time_filled.png" title="Life seeks to maximize the area under the Complexity function as Entropy increases" %}}
+
 While Russell's narrative applies to the known Life we observe on this planet, where the hydrogenation of carbon dioxide is the main mechanism by which the system increases entropy, I believe that my narrative would apply to any process we could find in the Universe that we would call Life.
 
-### So What?
+### So What Does That Mean?
 
-So what does that mean for us?  Are we supposed to just make everything on Earth as complex as possible?  Isn't complexity a bad thing?
+It means that human beings can align themselves with what Life has been up to for the last few billion years.   What is means is that humans have a job to do and no other living being can do it.
 
-A lot.  No.  It depends.  
+But what it means first, is that humans need to understand the nature of complexity and learn from the mistakes that Life has made in the past.  Maximizing the area under the curve does not mean simply pointing the slope up and to the right as if it was a revenue projection slide in an investor deck.  It means pushing out the downward curve as far as possible, even if it means reducing the slope of the upward curve.
 
-For now, keep it simple.
+I'm looking forward elaborating on this some more, but for now lets just say, the best strategy is to keep it simple.
 
 *~ Gooseus*
+
+#### Notes
+
+<a name="note-0">[0]</a> Taken from [Slide 24](https://www.slideshare.net/seanmcarroll/setting-time-aright/24-Life_the_ultimate_complex_system) of Sean Carroll's [Setting Time Aright Presentation](https://www.slideshare.net/seanmcarroll/setting-time-aright) from the [2011 Foundational Questions Institute Conference](http://fqxi.org/conference/2011) of the same name.
