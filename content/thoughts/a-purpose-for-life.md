@@ -6,17 +6,17 @@ draft: false
 
 I've tried many times to articulate a purpose for Life without much success.  I usually begin well enough and then find myself lost in the weeds as I realize that I haven't grounded the concepts of Life or Purpose well enough on a foundation of core philosophical terms and principles.
 
-Reading philosophy and listening to philosophy podcasts, I hadn't found anybody from the distant or recent past that quite hit on the points I was trying to make, and also found that being a great philosophical mind did not always correlate with being a wonderful writer.  This was both frustrating and encouraging.  I felt I had unique ideas to put forth, but couldn't quite find the right philosophical framework to build on and did not enjoy the prospect of starting from scratch, as many philosophers have enjoyed doing.
+Reading philosophy and listening to philosophy podcasts, I hadn't found anybody from the distant or recent past that had quite hit upon the points I was trying to make, and also found that being a great philosophical mind did not always correlate with being a great writer.  This was both frustrating and encouraging.  I felt I had unique ideas to put forth, but couldn't quite find the right philosophical framework to build on and did not enjoy the prospect of starting from scratch, as many philosophers have enjoyed doing.
 
-But then I found myself with a copy of Dr. Sean Carroll's copy of [*The Big Picture*](http://amzn.to/2Bsmws2).  I quickly got the sense that I had found what I was looking for.  As I poured through all the groundwork of [poetic naturalism](https://en.wikipedia.org/wiki/Poetic_naturalism) I was again bother delighted and discouraged, but for opposite reasons.  I was delighted at having finally found a foundation for my ideas, but was sure Dr. Carroll had either reached my same conclusions or had preemptively eviscerated them.
+But then I found myself reading a copy of Dr. Sean Carroll's [*The Big Picture*](http://amzn.to/2Bsmws2) and I quickly got the sense that I had found what I was looking for.  As I poured through all the groundwork of he had laid out and developed an understanding of [poetic naturalism](https://en.wikipedia.org/wiki/Poetic_naturalism) I was again both delighted and discouraged, this time for opposite reasons.  I was delighted at having finally found a foundation for my ideas, but was sure Dr. Carroll had either reached my same conclusions or had preemptively eviscerated them.
 
-Yet, when I had finished the book and looked up some of his related work, I realized that Carroll had not reached the same conclusions regarding the purpose of life and had not really put up any obstacles.  In fact, his train of thought had cleared many obstacles out of my way, delivered me to within spitting distance of my destination, and provided me a bag set of shiny new tools with which to clear the rest of the way!  So he goes nothing.
+Yet, when I had finished the book and looked up some of his related work, I realized that Carroll had not reached the same conclusions regarding the purpose of Life and had not really put up any obstacles.  In fact, his train of thought had cleared many of my obstacles, delivered me to within spitting distance of my destination, and provided me with a set of shiny new tools with which to clear the rest of the way!  So here goes nothing.
 
 ### Life as a Whole
 
-First, let me say that when I describe a purpose for life.  I am not referring to an individual life, but to the endeavor of Life as a whole.  While my personal ethic and moral framework are based on the points I'll be laying out, their details will have to be an essay for another day.  What I'm concerned with here is "What is the purpose of the process of life as a whole?".
+First, let me say that when I describe a purpose for life, I am not referring to an individual life.  While my personal ethic and moral framework are based on the points I'll be laying out, their details will have to be an essay for another day.  What I'm concerned with today is "What is the purpose of the process of life as a whole?".
 
-I do not believe that life is unique to Earth, and perhaps the life of Earth may not even be unique to Earth (another discussion for another day).  Without observing life outside our planet, we can only speculate.  However, I believe that the conclusion I reach would apply to anything we could call Life in any part of the Universe, so I will posit it as a universal truth at my own peril.
+I do not believe that life is unique to Earth, and perhaps the life of Earth may not even be unique to Earth (another discussion for another day).  Without observing life outside our planet, we can only speculate.  However, I believe that the conclusion I reach would apply to any form we could call Life in any part of the Universe, so I will be positing it as a universal truth, at my own peril.
 
 ### Poetic Naturalism
 
@@ -74,16 +74,17 @@ While Russell's narrative applies to the known Life we observe on this planet, w
 
 ### So What Does That Mean?
 
-It means that human beings can align themselves with what Life has been up to for the last few billion years.   What is means is that humans have a job to do, one that no other Earth being can do it.
+Personally, I think it means quite a lot, and yet, if the idea is explored in depth, it doesn't tell us anything we didn't already know.  
+If we could truly graph the complexity of Earth from it's formation, it would not look as clean as that parabola.  Instead, it would follow along quite nicely with a graph of speciations and extinctions in slow rises and relatively sharp falls.
 
-But what it means first, is that humans need to understand the nature of complexity and learn from the mistakes that Life has made in the past.  Maximizing the area under the curve does not mean simply pointing the slope up and to the right as if it was a revenue projection slide in an investor deck.  It means pushing out the downward curve as far as possible, even if it means reducing the slope of that upward curve.
+Life has driven the upward curves of complexity through evolutionary problem solving and massive environmental changes have driven the steep downward slopes through cosmic (meteors), geological (eruptions) and ecological (run-away biological chemistry) mechanisms.
 
-I'm looking forward elaborating on this some more, but for now, lets just say the best strategy is to keep it simple.
+We are playing the same game that Life has for billions of years, and in order to continue the upward trend and avoid the downward spike we must learn to understand the nature of complexity and avoid the mistakes that Life has made in the past.
 
 *~ Gooseus*
 
 #### Notes
 
-<a name="note-0">[[0]](#ref-0)</a> Quotes and figures from *The Big Picture* are used without permission. [*back*](#ref-0)
+<a name="note-0">[[0]](#ref-0)</a> Quotes and figures from *The Big Picture* are currently being used without permission. [*back*](#ref-0)
 
-<a name="note-1">[[1]](#ref-1)</a> From [Slide 24](https://www.slideshare.net/seanmcarroll/setting-time-aright/24-Life_the_ultimate_complex_system) of Sean Carroll's [Setting Time Aright Presentation](https://www.slideshare.net/seanmcarroll/setting-time-aright) from the [2011 Foundational Questions Institute Conference](http://fqxi.org/conference/2011) of the same name.  Used without permission.  [*back*](#ref-1)
+<a name="note-1">[[1]](#ref-1)</a> From [Slide 24](https://www.slideshare.net/seanmcarroll/setting-time-aright/24-Life_the_ultimate_complex_system) of Sean Carroll's [Setting Time Aright Presentation](https://www.slideshare.net/seanmcarroll/setting-time-aright) from the [2011 Foundational Questions Institute Conference](http://fqxi.org/conference/2011) of the same name.  Currently used without permission.  [*back*](#ref-1)

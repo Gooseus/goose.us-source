@@ -6,6 +6,11 @@ theme = "blank"
 
 enableRobotsTXT = true
 
+[taxonomies]
+  tag = ""
+  group = ""
+  category = ""
+
 [blackfriday]
 	plainIDAnchors = true
 	hrefTargetBlank = true
@@ -14,7 +19,7 @@ enableRobotsTXT = true
 	handle = "gooseus"
 	author = "Shawn Marincas"
 	description = "My personal thoughts on life, the universe, and everything."
-	keywords = "philosophy,science,life,the universe,complexity,fragility"
+	keywords = "philosophy,poetic naturalism,science,life,the universe,complexity,fragility"
 
 [[menu.main]]
 	name = "Thoughts"
@@ -22,5 +27,4 @@ enableRobotsTXT = true
 	weight = -110
 	identifier = "thoughts"
 	url = "/thoughts/"
-
 

@@ -547,59 +547,17 @@ code {
 html { font-size: 120%;  }
 body { margin: 1rem; }
 header { text-align: center; }
-
-header, main, footer, aside { margin: 0 auto; width: 800px; }
-
-@media (min-width:320px)  { 
-	/* smartphones, iPhone, portrait 480x320 phones */
-	header, main, footer, aside { width: 300px; }
-	h1 { line-height: 3rem }
-}
-@media (min-width:481px)  { 
-	/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
-	header, main, footer, aside { width: 460px; }
-	h1 { line-height: 3rem }
-}
-@media (min-width:641px)  { 
-	/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
-	header, main, footer, aside { margin: 0 auto; width: 600px; }
-}
-@media (min-width:961px)  { 
-	/* tablet, landscape iPad, lo-res laptops ands desktops */ 
-	header, main, footer, aside { margin: 0 auto; width: 800px; }
-}
-@media (min-width:1025px) { 
-	/* big landscape tablets, laptops, and desktops */ 
-	header, main, footer, aside { margin: 0 auto; width: 800px; }
-}
-@media (min-width:1281px) { 
-	/* hi-res laptops and desktops */
-	header, main, footer, aside { margin: 0 auto; width: 1000px; }
+header, main, footer, aside { 
+	margin: 0 auto; width:
+	800px;
 }
 
-/*footer { width: 800px margin: 0 auto; }*/
-/*aside { position: fixed; right: 1.5em; top: 1.5em; }*/
-h1,h2 { 
+h1, h2 { 
 	margin-top: 0;
 }
 h1 { font-size: 2.75rem; }
 h2 { font-size: 2.25rem; }
 h3 { font-size: 1.25rem; }
-main a, aside a, footer a { 
-	color: #444;
-	text-decoration: underline;
-	text-decoration-style: dashed;
-}
-main a:hover, aside a:hover, footer a:hover {
-	color: inherit;
-	text-decoration: underline;
-	text-decoration-style: solid;
-}
-
-h1 a, h1 a:hover { 
-	text-decoration: none;
-	color: inherit;
-}
 
 header h1 { margin: 0; padding: 0; }
 
@@ -608,26 +566,43 @@ nav ul{
   margin: 0 2px;
   padding: 0;
 }
-
 nav li {
    display: inline-block;
    padding: 0 10px;
 }
+footer { 
+	color: #444;
+	font-size: 90%;
+}
 
+h1 a, h1 a:hover { 
+	text-decoration: none;
+	color: inherit;
+}
+main a, aside a, footer a { 
+	color: #444;
+	text-decoration: underline;
+	text-decoration-style: dashed;
+}
 nav a {
 	color: #444;
 	text-decoration: none;
 	font-weight: bold;
 	font-size: 110%;
 }
-footer a{ text-decoration: none; }
-footer { color: #444; }
-/*footer a{ font-weight: normal; font-size: inherit; }*/
-nav a:hover, footer a:hover {
+main a:hover  {
+	color: inherit;
+	text-decoration: underline;
+	text-decoration-style: solid;
+}
+nav a:hover, footer a:hover, aside a:hover {
 	color: #000;
 	text-decoration: none;
 }
-nav a.active { text-decoration: underline; color: #000; }
+nav a.active { 
+	text-decoration: underline;
+	color: #000;
+}
 
 .pull-right { float: right; }
 .nostyle-anchor { text-decoration: none; }
@@ -648,3 +623,29 @@ figure { text-align: center; }
 figure img { width: 100%; }
 figure h4 { margin-top: 1em; }
 
+@media (min-width:320px)  { 
+	/* smartphones, iPhone, portrait 480x320 phones */
+	header, main, footer, aside { width: 300px; }
+	h1 { line-height: 3rem }
+}
+@media (min-width:481px)  { 
+	/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
+	header, main, footer, aside { width: 460px; }
+	h1 { line-height: 3rem }
+}
+@media (min-width:641px)  { 
+	/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+	header, main, footer, aside { width: 600px; }
+}
+@media (min-width:961px)  { 
+	/* tablet, landscape iPad, lo-res laptops ands desktops */ 
+	header, main, footer, aside { width: 800px; }
+}
+@media (min-width:1025px) { 
+	/* big landscape tablets, laptops, and desktops */ 
+	header, main, footer, aside { width: 800px; }
+}
+@media (min-width:1281px) { 
+	/* hi-res laptops and desktops */
+	header, main, footer, aside { width: 1000px; }
+}
