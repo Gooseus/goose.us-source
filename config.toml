@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://goose.us/"
 languageCode = "en-us"
 title = "A Thoughtful Goose"
 
@@ -18,12 +18,11 @@ enableRobotsTXT = true
 [params]
 	handle = "gooseus"
 	author = "Shawn Marincas"
-	description = "My personal thoughts on life, the universe, and everything."
-	keywords = "philosophy,poetic naturalism,science,life,the universe,complexity,fragility"
+	description = "Thoughts on Life, the Universe, and Everything."
 
 [[menu.main]]
 	name = "Thoughts"
-	title = "thoughts list"
+	title = "All the Thoughts"
 	weight = -110
 	identifier = "thoughts"
 	url = "/thoughts/"

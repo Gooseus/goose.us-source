@@ -1,3 +1,5 @@
+/*! original/readable version - https://goose.us/css/style.css */
+/*! optmized/minified using clean-css-cli 4.1.10 | MIT License | github.com/jakubpawlowicz/clean-css-cli */
 /*! normalize.css v7.0.0 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
@@ -548,19 +550,25 @@ html { font-size: 120%;  }
 body { margin: 1rem; }
 header { text-align: center; }
 header, main, footer, aside { 
-	margin: 0 auto; width:
-	800px;
+	margin: 0 auto;
+	width: 800px;
+	margin-bottom: 30px;
 }
 
-h1, h2 { 
+h1, h2, h5 { 
 	margin-top: 0;
 }
 h1 { font-size: 2.75rem; }
 h2 { font-size: 2.25rem; }
 h3 { font-size: 1.25rem; }
+h5 { 
+	font-size: .6rem;
+	font-weight: normal;
+}
 
 header h1 { margin: 0; padding: 0; }
 
+header nav { margin-top: 10px; }
 nav ul{
   list-style: none;
   margin: 0 2px;
@@ -621,7 +629,16 @@ blockquote p { margin: 0; }
 
 figure { text-align: center; }
 figure img { width: 100%; }
-figure h4 { margin-top: 1em; }
+figcaption h4 { 
+	margin-top: .5rem;
+	line-height: 1rem;
+}
+figcaption p { 
+	margin-top: 0;
+	font-size: 60%;
+	line-height: 1rem;
+	font-style: italic;
+}
 
 @media (min-width:320px)  { 
 	/* smartphones, iPhone, portrait 480x320 phones */

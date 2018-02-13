@@ -6,7 +6,7 @@
 			<div>
 				<ul>
 					{{ range first 5 (where .Site.RegularPages "Section" "thoughts") }}
-					<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+					<li><a href="{{ .Permalink }}">{{ .Title }}</a><br />{{ .Description }}</li>
 					{{ end }}
 				</ul>
 			</div>

@@ -1,15 +1,25 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>{{ .Title }} | Thoughts on philosophy, science, life, the universe and everything else.</title>
-	{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-	{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
-	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+	<meta charset="utf-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+	<title>{{ .Site.Title }} | {{ if $.IsHome }}Thinking about all of the things worth thinking about{{else}}{{ .Title }}{{ end}}</title>
+
+	<meta name="description" content="{{ .Description | default .Site.Params.SiteDescription }}">
+	<meta name="author" content="{{ .Site.Params.author }}">
+
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.min.css?t={{ .Lastmod.Unix }}">
 	{{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
 	{{ .Hugo.Generator }}
+	{{ if $.Params.twitter_card }}
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@{{ .Site.Params.handle }}">
+	<meta name="twitter:creator" content="@{{ .Site.Params.handle }}">
+	<meta name="twitter:title" content="{{ .Title }}">
+	<meta name="twitter:description" content="{{ .Description | default .Site.Params.SiteDescription }}">
+	<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $.Params.twitter_card_image }}">{{ end}}
 </head>
 <body>
 	<header>

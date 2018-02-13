@@ -3,7 +3,7 @@
 		<article>
 			<small class="pull-right"><a class="nostyle-anchor" name="top" href="#bottom">&darr; Bottom</a></small>
 			<h2>{{ .Title }}</h2>
-			<time>{{ .Date.Format "January 2, 2006" }}</time>
+			<h5><b>First Draft</b>: <time>{{ .Date.Format "January 2, 2006" }}</time>, <b>Latest Draft</b>: <time>{{ .Page.Lastmod.Format "January 2, 2006" }}</time></h5>
 			
 			<div>
 				{{ .Content }}
