@@ -1,5 +1,38 @@
-	<footer>
+	<footer id="footer">
 		<p> <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> is <a target="_blank" href="/LICENSE.txt">licensed</a> under <a target="_blank" href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a> | <a target="_blank" href="https://keybase.io/{{ .Site.Params.handle }}">Keybase</a> | <a target="_blank" href="https://twitter.com/{{ .Site.Params.handle }}">Twitter</a> | <a target="_blank" href="https://reddit.com/r/{{ .Site.Params.handle }}">Reddit</a></p>
 	</footer>
+
+	<script>
+		/* Light YouTube Embeds by @labnol */
+		/* Web: http://labnol.org/?p=27941 */
+		/* modified for hugo shortcode and style by Gooseus */
+
+		function yt_lt_iframe() {
+			var iframe = document.createElement("iframe");
+
+			iframe.setAttribute("src", "https://www.youtube.com/embed/"+this.dataset.id+"?autoplay=1");
+			iframe.setAttribute("frameborder", "0");
+			iframe.setAttribute("allowfullscreen", "1");
+
+			while (this.firstChild) {
+				this.removeChild(this.firstChild);
+			}
+
+			this.appendChild(iframe);
+			this.classList.remove("dim-hover");
+		}
+
+		function yt_lt_setup() {
+			var div, n,
+				v = document.getElementsByClassName("youtube-player"),
+				l = v.length;
+
+			for (n = 0; n < l; n++) {
+				v[n].onclick = yt_lt_iframe;
+			}
+		}
+
+		document.addEventListener("DOMContentLoaded", yt_lt_setup);
+	</script>
 </body>
 </html>
