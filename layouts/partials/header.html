@@ -19,7 +19,12 @@
 	<meta name="twitter:creator" content="@{{ .Site.Params.handle }}">
 	<meta name="twitter:title" content="{{ .Title }}">
 	<meta name="twitter:description" content="{{ .Description | default .Site.Params.SiteDescription }}">
-	<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $.Params.twitter_card_image }}">{{ end}}
+	<meta name="twitter:image" content="{{ .Site.BaseURL }}{{ $.Params.twitter_card_image }}">
+
+	<meta property="og:url" content="{{ .Site.BaseURL }}" />
+	<meta property="og:title" content="{{ .Title }}" />
+	<meta property="og:description" content="{{ .Description | default .Site.Params.SiteDescription }}" />
+	<meta property="og:image" content="{{ .Site.BaseURL }}{{ $.Params.twitter_card_image }}" />{{ end}}
 </head>
 <body>
 	<header>

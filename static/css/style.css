@@ -650,7 +650,7 @@ h1 a, h1 a:hover {
 main a, aside a, footer a { 
 	color: #444;
 	text-decoration: underline;
-	text-decoration-style: dashed;
+	/*text-decoration-style: dashed;*/
 }
 nav a {
 	color: #444;
@@ -689,6 +689,7 @@ blockquote p { margin: 0; }
 
 figure { text-align: center; }
 figure img { width: 100%; }
+figure.natural img { width: auto; }
 figcaption h4 { 
 	margin-top: .5rem;
 	line-height: 1rem;

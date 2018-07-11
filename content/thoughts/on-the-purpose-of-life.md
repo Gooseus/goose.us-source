@@ -1,5 +1,8 @@
 ---
-title: "The Purpose of Life"
+title: "On The Purpose of Life"
+aliases:
+ - /thoughts/the-purpose-of-life/
+ - /thoughts/purpose-of-life/
 date: 2018-01-25T05:03:57-08:00
 lastmod: 2018-02-19T11:40:00-08:00
 description: "Wherein I leverage the work of Sean Carroll, MinutePhysics and MinuteEarth to propose a new purpose of life."
@@ -21,7 +24,7 @@ I've tried many times to articulate a purpose for life, without much success.  O
 
 As I consumed philosophy books and podcasts, I didn't come across anyone that seemed to hit upon the point I was trying to make, and I found that most philosophical frameworks were difficult to build on.  They either involved talking about purpose from a personal perspective, or else delved deep into Reality and Being while seeking to prove or disprove the involvement of God.
 
-But then I came across Dr. Sean Carroll's book, [*The Big Picture*](http://amzn.to/2Bsmws2), and I found exactly what I was looking for.
+But then I came across Dr. Sean Carroll's book, [*The Big Picture*](https://amzn.to/2Bsmws2), and I found exactly what I was looking for.
 
 In this book, Carroll lays out all the foundation that I had hoped to, much better than I ever could, and outlines a perfect framework to build within, [Poetic Naturalism](https://en.wikipedia.org/wiki/Poetic_naturalism).  However, as I read more, I became sure that he had already reached the same conclusions I had, or else had already dismissed them in some fundamental way.
 
@@ -39,7 +42,7 @@ Even if you have already read *The Big Picture*, I would still highly recommend 
 
 ### Big Picture Philosophy
 
-The MinutePhysics videos don't cover Carroll's philosophical framework, so let's quickly restate the tenets of poetic naturalism as defined in *The Big Picture*<a name="ref-0">[[0]](#note-0)</a>.
+The MinutePhysics videos don't cover Carroll's philosophical framework, so let's quickly restate the tenets of poetic naturalism as defined in *The Big Picture*:
 
 > Naturalism comes down to three things:
 
@@ -147,11 +150,11 @@ Many people believe this is happening right now, in what is being called the [Ho
 
 Human beings have a consciousness that can recognize and study patterns, they can understand complexity and measure its effect on systems.  Lately, many great minds have studied the nature of complexity and written extensively on the problems faced when it grows too large, too fast:
 
-[Joseph A. Tainter's](https://en.wikipedia.org/wiki/Joseph_Tainter) book, [The Collapse of Complex Societies](http://amzn.to/2HbhZhK), covers this topic from an archaeological point of view, extensively studying past civilizations and detailing how their increased complexity generated diminishing marginal returns with regards to energy economics, eventually leading to their collapse.  This is also covered in his related paper, [Complexity, Problem Solving, and Sustainable Societies](https://www.goldonomic.com/tainter.htm).
+[Joseph A. Tainter's](https://en.wikipedia.org/wiki/Joseph_Tainter) book, [The Collapse of Complex Societies](https://amzn.to/2HbhZhK), covers this topic from an archaeological point of view, extensively studying past civilizations and detailing how their increased complexity generated diminishing marginal returns with regards to energy economics, eventually leading to their collapse.  This is also covered in his related paper, [Complexity, Problem Solving, and Sustainable Societies](https://www.goldonomic.com/tainter.htm).
 
 [James P. Crutchfield's](https://en.wikipedia.org/wiki/James_P._Crutchfield) paper [The Hidden Fragilities of Complex Systems - Consequences of Change, Changing Consequences](http://csc.ucdavis.edu/~cmg/papers/FOCS.pdf) discusses how "Short-term survival and an exuberant plunge into building our future are generating a new kind of unintended consequence&mdash;hidden fragility.".
 
-[Nassim Nicolas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) covers the topics of fragility and complexity extensively in his works, [The Black Swan](http://amzn.to/2HdegR0) and [Antifragile](http://amzn.to/2CjJoKI).  His ideas on risk, robustness, and anti-fragility are an invaluable look at how humans build complex systems that ignore the risks of long term failure, in pursuit of short term gain.
+[Nassim Nicolas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) covers the topics of fragility and complexity extensively in his works, [The Black Swan](https://amzn.to/2HdegR0) and [Antifragile](https://amzn.to/2CjJoKI).  His ideas on risk, robustness, and anti-fragility are an invaluable look at how humans build complex systems that ignore the risks of long term failure, in pursuit of short term gain.
 
 Increasing complexity is aligned with the purpose, but doing so without regard for the effects on the overall system, or without considering the risks of increased fragility, ultimately dooms the effort.
 
@@ -189,6 +192,6 @@ By building our complex systems in alignment with this purpose, human beings can
 
 {{< reddit_link >}}
 
-#### Notes
+<!-- #### Notes
 
-<a name="note-0">[[0]](#ref-0)</a> Quotes and figures from *The Big Picture* are currently used without permission. [*back*](#ref-0)
+<a name="note-0">[[0]](#ref-0)</a> Quotes and figures from *The Big Picture* are currently used without permission. [*back*](#ref-0) -->
