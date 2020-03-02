@@ -8,7 +8,7 @@ description: "Wherein I attempt to bridge Jordan Peterson's ideas on traditional
 twitter_card: true
 twitter_card_image: "media/peterson-newage-imagery.png"
 reddit_id: "8lgkbf"
-draft: false
+draft: true
 ---
 
 I had been hoping to publish a direct follow-up to my first article [On The Purpose of Life](/thoughts/the-purpose-of-life), but that's taking more time to flesh out than expected, partly because I've been procrastinating on Twitter.  One of those procrastinations inspired this post here, which will hopefully fit in with the overall theme at some point.

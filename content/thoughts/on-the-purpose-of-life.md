@@ -9,7 +9,7 @@ description: "Wherein I leverage the work of Sean Carroll, MinutePhysics and Min
 twitter_card: true
 twitter_card_image: "media/complexity-entropy_time_filled.png"
 reddit_id: "7xm0kr"
-draft: false
+draft: true
 ---
 
 Let's start by clarifying what I mean by "The Purpose of Life".  What I'm to referring here is the chemical process we call Life; a unique process that any intelligent beings would observe while studying our planet. This is Life with a capital 'L', and while it includes you and every other living being on the planet, this isn't about making value judgments regarding what you are doing with your personal life.  It's about observing what Life seems to be accomplishing from the point of view of the Universe.
